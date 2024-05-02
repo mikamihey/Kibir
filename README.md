@@ -1,8 +1,1 @@
-# Kibir
-ma
-dd;l
-kjlkndslk
-d
-d
-
-d
+puts "Hello RubyWorld!"
